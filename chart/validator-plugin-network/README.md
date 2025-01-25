@@ -16,7 +16,7 @@ The following table lists the configurable parameters of the Validator-plugin-ne
 | `controllerManager.manager.containerSecurityContext.capabilities.add` |  | `["NET_RAW"]` |
 | `controllerManager.manager.containerSecurityContext.capabilities.drop` |  | `["ALL"]` |
 | `controllerManager.manager.image.repository` |  | `"quay.io/validator-labs/validator-plugin-network"` |
-| `controllerManager.manager.image.tag` | x-release-please-version | `"v0.1.2"` |
+| `controllerManager.manager.image.tag` | x-release-please-version | `"v0.1.3"` |
 | `controllerManager.manager.resources.limits.cpu` |  | `"500m"` |
 | `controllerManager.manager.resources.limits.memory` |  | `"128Mi"` |
 | `controllerManager.manager.resources.requests.cpu` |  | `"10m"` |
