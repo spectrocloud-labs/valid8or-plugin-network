@@ -2,5 +2,5 @@ apiVersion: v2
 name: validator-plugin-network
 description: Perform various network validations (DNS, ICMP, MTU, Netcat, IP-range)
 type: application
-version: 0.1.2
+version: 0.1.3
 appVersion: 0.0.9

@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.3](https://github.com/validator-labs/validator-plugin-network/compare/v0.1.2...v0.1.3) (2025-01-25)
+
+
+### Dependency Updates
+
+* **deps:** update build digest to 1af2678 ([#312](https://github.com/validator-labs/validator-plugin-network/issues/312)) ([b0fa64f](https://github.com/validator-labs/validator-plugin-network/commit/b0fa64faa7588e9dbbf6efd2050ffee88be67c53))
+* **deps:** update build digest to 1b51737 ([#313](https://github.com/validator-labs/validator-plugin-network/issues/313)) ([0fd25aa](https://github.com/validator-labs/validator-plugin-network/commit/0fd25aac225824ffd522eaf5476700a77078ee01))
+* **deps:** update build digest to 3236c04 ([#316](https://github.com/validator-labs/validator-plugin-network/issues/316)) ([52fcfee](https://github.com/validator-labs/validator-plugin-network/commit/52fcfee76f500aa1095bc62051c6da0866e5e974))
+* **deps:** update build digest to 454e459 ([#315](https://github.com/validator-labs/validator-plugin-network/issues/315)) ([52e5bd5](https://github.com/validator-labs/validator-plugin-network/commit/52e5bd5c90b6348fcf06c3df1c2ae714146705a1))
+* **deps:** update build digest to 6a4c752 ([#318](https://github.com/validator-labs/validator-plugin-network/issues/318)) ([fd4ee1c](https://github.com/validator-labs/validator-plugin-network/commit/fd4ee1cf4d034d759435449878890cb6c22ac4fe))
+* **deps:** update build digest to aa32dd3 ([#310](https://github.com/validator-labs/validator-plugin-network/issues/310)) ([d12d7a3](https://github.com/validator-labs/validator-plugin-network/commit/d12d7a3f87ba6a93cd3a55510451ec1bfdf4dfff))
+* **deps:** update build digest to b554bf5 ([#314](https://github.com/validator-labs/validator-plugin-network/issues/314)) ([dcce06c](https://github.com/validator-labs/validator-plugin-network/commit/dcce06cc1b4db5dac6f1c19d39d9bfe6f01b9c82))
+* **deps:** update build digest to d7fbb38 ([#317](https://github.com/validator-labs/validator-plugin-network/issues/317)) ([e7a926b](https://github.com/validator-labs/validator-plugin-network/commit/e7a926bf06a6cb2ef5d834147e2ca01fd086232c))
+
 ## [0.1.2](https://github.com/validator-labs/validator-plugin-network/compare/v0.1.1...v0.1.2) (2024-12-16)
 
 
